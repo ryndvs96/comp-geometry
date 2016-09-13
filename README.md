@@ -1,5 +1,6 @@
-# Computation Geometry
-Programs to evaluate and display conic sections based on the manipulation of line and circle formula. Applicable to constructing curves for airplane wings and fuselages.
+# Computational Geometry
+This code and research was produced with Professor Cristoph Hoffmann, *Purdue University*. 
+This program to evaluates and displays conic sections based on the manipulation of line and circle formula. Applicable to constructing curves for airplane wings and fuselages.
 
 ## Defining Conics
 We can define a triangle comprised of lines *L1*, *L2*, and *L3*.
