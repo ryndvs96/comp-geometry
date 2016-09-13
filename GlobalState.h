@@ -1,19 +1,4 @@
 #pragma once
-/**************************\
- *                        *
- *  CS 435, Fall 98       *
- *  Chris Hoffmann        *
- *                        *
-\**************************/
-
-/*
- * Bezier Sketch, Project 6
- *
- * Main.h defines global entities
- *        others need to know about
- *
- */
-
 #include <unordered_set>
 #include <map>
 extern int Dsp_win;

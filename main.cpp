@@ -3,7 +3,6 @@
 
 #include <stdio.h>
 #include <tchar.h>
-//#include <stdlib.h>
 #include "GL/glut.h"
 #include "Dwindow.h"
 #include "GlobalState.h"
